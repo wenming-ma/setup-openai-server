@@ -1,0 +1,303 @@
+2026-01-05 09:00:37,537 - ERROR - Claude API error: 502 - The requested model is currently unavailable
+2026-01-05 09:01:08,683 - ERROR - Claude API error: 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105090104510947471ekgkYiO1) (request id: 20260105170104446924882BFLc4lRr)"},"type":"error"}
+2026-01-05 09:01:27,317 - ERROR - Claude API error: 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105090123111953624MwKFbQD0) (request id: 2026010517012351348763HZFFKgof)"},"type":"error"}
+2026-01-05 09:02:17,662 - ERROR - Claude API error: 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105090212120945745xld6vx0e) (request id: 2026010517021255308534pVi1g3Ku)"},"type":"error"}
+2026-01-05 09:03:48,383 - ERROR - Claude API error: 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105090342104081362TQnsGjiF) (request id: 2026010517034242275493ayUQxROK)"},"type":"error"}
+2026-01-05 09:04:11,851 - ERROR - Claude API error: 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105090407667499241xhUMrxXK) (request id: 20260105170407604041471J6fFsTsC)"},"type":"error"}
+2026-01-05 09:04:29,601 - ERROR - Claude API error: 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105090425340805253dJS10ju0) (request id: 20260105170425277877513LMUKRxAW)"},"type":"error"}
+2026-01-05 09:04:46,593 - ERROR - Claude API error: 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105090442436867195bWHFnOsm) (request id: 20260105170442372182043YhZTCap8)"},"type":"error"}
+2026-01-05 09:07:18,501 - ERROR - Claude API error: 502 - The requested model is currently unavailable
+2026-01-05 09:07:34,002 - ERROR - Claude API error: 502 - The requested model is currently unavailable
+2026-01-05 09:07:53,218 - ERROR - Claude API error: 502 - The requested model is currently unavailable
+2026-01-05 09:08:33,746 - ERROR - Claude API error: 502 - The requested model is currently unavailable
+2026-01-05 09:08:48,206 - ERROR - Claude API error: 500 - event: error
+data: {"error":"Upstream request failed","timestamp":"2026-01-05T09:08:48.116Z"}
+
+
+2026-01-05 09:09:02,482 - ERROR - Claude API error: 500 - event: error
+data: {"error":"Upstream request failed","timestamp":"2026-01-05T09:09:02.395Z"}
+
+
+2026-01-05 09:10:29,798 - ERROR - Claude API error: 500 - event: error
+data: {"error":"Upstream request failed","timestamp":"2026-01-05T09:10:29.712Z"}
+
+
+2026-01-05 09:10:40,725 - ERROR - Claude API error: 500 - event: error
+data: {"error":"Upstream request failed","timestamp":"2026-01-05T09:10:40.640Z"}
+
+
+2026-01-05 09:14:57,969 - ERROR - Claude API error: 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105091452262101282RbI6qPnU) (request id: 20260105171452199943596Ef3TzCn1)"},"type":"error"}
+2026-01-05 09:15:18,690 - ERROR - Claude API error: 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105091513256405783AOD6hFYI) (request id: 20260105171513196733297N99X8Uet)"},"type":"error"}
+2026-01-05 09:38:54,197 - ERROR - Claude API error (attempt 1): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105093845392977011Vr8AoaCN) (request id: 202601051738453377165945M10OfrB)"},"type":"error"}
+2026-01-05 09:39:10,209 - ERROR - Claude API error (attempt 2): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105093900969071612zNjqOi99) (request id: 20260105173900914567683CfOUwhnT)"},"type":"error"}
+2026-01-05 09:39:25,902 - ERROR - Claude API error (attempt 3): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105093916918421065T6RtEkJ1) (request id: 20260105173916866877583GX8YPqRm)"},"type":"error"}
+2026-01-05 09:39:25,903 - ERROR - All 3 attempts failed. Last error: {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105093916918421065T6RtEkJ1) (request id: 20260105173916866877583GX8YPqRm)"},"type":"error"}
+2026-01-05 09:43:06,761 - ERROR - Claude API error (attempt 1): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105094252474817069mcRmf7gQ) (request id: 20260105174252422959943Nr0RR66R)"},"type":"error"}
+2026-01-05 09:43:25,861 - ERROR - Claude API error (attempt 2): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105094311719590171kHGMxkpl) (request id: 20260105174311669837730ryNXO5k2)"},"type":"error"}
+2026-01-05 09:43:55,249 - ERROR - Claude API error (attempt 3): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105094339988372710TOLpTVFY) (request id: 20260105174339930881927KLfXwVx7)"},"type":"error"}
+2026-01-05 09:43:55,250 - ERROR - All 3 attempts failed. Last error: {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105094339988372710TOLpTVFY) (request id: 20260105174339930881927KLfXwVx7)"},"type":"error"}
+2026-01-05 09:44:43,540 - ERROR - Claude API error (attempt 1): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 202601050944268439911360ZoA28Mc) (request id: 20260105174426781652939xRcMfOl3)"},"type":"error"}
+2026-01-05 09:45:12,380 - ERROR - Claude API error (attempt 2): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 202601050944555606100317ItBW8zj) (request id: 20260105174455502675754bOLi37Wm)"},"type":"error"}
+2026-01-05 09:46:13,402 - ERROR - Claude API error (attempt 1): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105094558344224333AOxvxCrS) (request id: 202601051745582817065753hCPXGCE)"},"type":"error"}
+2026-01-05 09:46:36,809 - ERROR - Claude API error (attempt 2): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105094620693012166T6tD3Wzi) (request id: 202601051746206417464553r9Pp9Qd)"},"type":"error"}
+2026-01-05 09:47:02,089 - ERROR - Claude API error (attempt 3): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105094644989396887FueXwqxP) (request id: 20260105174644930063115RdP2QKdj)"},"type":"error"}
+2026-01-05 09:47:02,090 - ERROR - All 3 attempts failed. Last error: {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105094644989396887FueXwqxP) (request id: 20260105174644930063115RdP2QKdj)"},"type":"error"}
+2026-01-05 09:56:39,293 - ERROR - Claude API error (attempt 1): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105095625869755547J7JMYzPv) (request id: 20260105175625810702347xszuqCyo)"},"type":"error"}
+2026-01-05 09:56:59,725 - ERROR - Claude API error (attempt 2): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105095647569703681sChYhPwp) (request id: 20260105175647503134984Ubo3tduB)"},"type":"error"}
+2026-01-05 09:57:21,085 - ERROR - Claude API error (attempt 3): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105095707757077412FUFmR3qk) (request id: 20260105175707692991935MOaC7LUN)"},"type":"error"}
+2026-01-05 09:57:21,086 - ERROR - All 3 attempts failed. Last error: {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105095707757077412FUFmR3qk) (request id: 20260105175707692991935MOaC7LUN)"},"type":"error"}
+2026-01-05 10:05:53,483 - ERROR - Claude API error (attempt 1): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 2026010510054285109517tKSerlXp) (request id: 2026010518054225724951nUrN9HcH)"},"type":"error"}
+2026-01-05 10:06:11,484 - ERROR - Claude API error (attempt 2): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105100600328363320cpyzJ9xm) (request id: 202601051806002734274507WEAbLiL)"},"type":"error"}
+2026-01-05 10:06:33,502 - ERROR - Claude API error (attempt 3): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105100623581252777BUFhHfQq) (request id: 20260105180623522489945zF7sTo7n)"},"type":"error"}
+2026-01-05 10:06:33,502 - ERROR - All 3 attempts failed. Last error: {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105100623581252777BUFhHfQq) (request id: 20260105180623522489945zF7sTo7n)"},"type":"error"}
+2026-01-05 10:12:35,160 - ERROR - Claude API error (attempt 1): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 202601051012264464395184YMce7pZ) (request id: 20260105181226381410303plgpukKY)"},"type":"error"}
+2026-01-05 10:12:50,288 - ERROR - Claude API error (attempt 2): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105101242246070292ftGzJ6vP) (request id: 20260105181242182647257RENohdbp)"},"type":"error"}
+2026-01-05 10:13:12,171 - ERROR - Claude API error (attempt 3): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 2026010510130387142000sPr2rkf2) (request id: 2026010518130317672197TSHvpcF9)"},"type":"error"}
+2026-01-05 10:13:12,171 - ERROR - All 3 attempts failed. Last error: {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 2026010510130387142000sPr2rkf2) (request id: 2026010518130317672197TSHvpcF9)"},"type":"error"}
+2026-01-05 10:27:09,522 - ERROR - Claude API error (attempt 1): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105102702226857934kP764dGI) (request id: 20260105182702157732304KluhXAoY)"},"type":"error"}
+2026-01-05 10:27:20,341 - ERROR - Claude API error (attempt 2): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105102714237270561IyQ4N9gd) (request id: 20260105182714171459088yCcxDbcT)"},"type":"error"}
+2026-01-05 10:27:33,238 - ERROR - Claude API error (attempt 3): 500 - {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105102727337657773ng2DaJGx) (request id: 20260105182727261502168VBfdDezj)"},"type":"error"}
+2026-01-05 10:27:33,239 - ERROR - All 3 attempts failed. Last error: {"error":{"type":"<nil>","message":"Failed after 3 attempts: This ReadableStream is disturbed (has already been read from), and cannot be used as a body. (request id: 20260105102727337657773ng2DaJGx) (request id: 20260105182727261502168VBfdDezj)"},"type":"error"}
+2026-01-05 11:02:10,096 - ERROR - Claude API error (attempt 1): 503 - {"error":{"message":"No available accounts: no available accounts","type":"api_error"},"type":"error"}
+2026-01-05 11:02:20,124 - ERROR - Claude API error (attempt 1): 503 - {"error":{"message":"No available accounts: no available accounts","type":"api_error"},"type":"error"}
+2026-01-05 11:05:11,677 - ERROR - Claude API error (attempt 1): 503 - {"error":{"message":"No available accounts: no available accounts","type":"api_error"},"type":"error"}
+2026-01-05 11:10:47,994 - ERROR - Claude API error (attempt 1): 503 - {"error":{"message":"No available accounts: no available accounts","type":"api_error"},"type":"error"}
+2026-01-05 11:12:58,350 - ERROR - Claude API error (attempt 1): 502 - <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>ctok.ai | 502: Bad gateway</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+</head>
+<body>
+<div id="cf-wrapper">
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+                <span class="inline-block">Bad gateway</span>
+                <span class="code-label">Error code 502</span>
+            </h1>
+            <div>
+                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=as.ctok.ai" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
+            </div>
+            <div class="mt-3">2026-01-05 11:12:58 UTC</div>
+        </header>
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                    <div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  
+    Browser
+  
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+  
+</div>
+                    <div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&#38;utm_campaign=as.ctok.ai" target="_blank" rel="noopener noreferrer">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    </a>
+  </div>
+  <span class="md:block w-full truncate">San Jose</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=as.ctok.ai" target="_blank" rel="noopener noreferrer">
+    Cloudflare
+  </a>
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+  
+</div>
+                    <div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">as.ctok.ai</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  
+    Host
+  
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+  
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>The web server reported a bad gateway error.</p>
+                </div>
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                    <p class="mb-6">Please try again in a few minutes.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9b9289592b10eb20</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">54.219.165.75</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&#38;utm_campaign=as.ctok.ai" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div>
+</div>
+</body>
+</html>
+2026-01-05 11:13:09,830 - ERROR - Claude API error (attempt 1): 503 - {"error":{"message":"No available accounts: no available accounts","type":"api_error"},"type":"error"}
+2026-01-05 11:14:38,328 - ERROR - Claude API error (attempt 1): 502 - <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>ctok.ai | 502: Bad gateway</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+</head>
+<body>
+<div id="cf-wrapper">
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+                <span class="inline-block">Bad gateway</span>
+                <span class="code-label">Error code 502</span>
+            </h1>
+            <div>
+                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=as.ctok.ai" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
+            </div>
+            <div class="mt-3">2026-01-05 11:14:38 UTC</div>
+        </header>
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                    <div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  
+    Browser
+  
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+  
+</div>
+                    <div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&#38;utm_campaign=as.ctok.ai" target="_blank" rel="noopener noreferrer">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    </a>
+  </div>
+  <span class="md:block w-full truncate">San Jose</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=as.ctok.ai" target="_blank" rel="noopener noreferrer">
+    Cloudflare
+  </a>
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+  
+</div>
+                    <div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">as.ctok.ai</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  
+    Host
+  
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+  
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>The web server reported a bad gateway error.</p>
+                </div>
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                    <p class="mb-6">Please try again in a few minutes.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9b928bee9e655c21</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">54.219.165.75</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&#38;utm_campaign=as.ctok.ai" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div>
+</div>
+</body>
+</html>
